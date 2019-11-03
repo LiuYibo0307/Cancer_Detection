@@ -1,1 +1,2 @@
-# Cancer_Detection
+# Kaggle_CancerDetection
+This is PyTorch baseline for https://www.kaggle.com/c/histopathologic-cancer-detection
